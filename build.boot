@@ -6,6 +6,7 @@
                   [hoplon/castra             "3.0.0-SNAPSHOT"]
                   [compojure                 "1.4.0"]
                   [korma                     "0.4.0"]
+                  [selmer                    "0.9.3"]
                   [org.xerial/sqlite-jdbc    "3.7.15-M1"]
                   [org.clojure/clojure       "1.7.0"]
                   [org.clojure/clojurescript "1.7.145"]
